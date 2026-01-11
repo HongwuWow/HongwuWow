@@ -1,4 +1,8 @@
-## Hi, I'm Hongwu Wang.👋
+<center>
+
+# Hi, I'm Hongwu Wang 👋
+
+</center>
 
 <!--
 **HongwuWow/HongwuWow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
