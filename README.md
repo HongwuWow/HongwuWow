@@ -1,6 +1,8 @@
 
 
-# Hi, I'm Hongwu Wang 👋
+
+
+<h1 align="center">Hi, I'm Hongwu Wang. 👋 </h1>
 
 
 
